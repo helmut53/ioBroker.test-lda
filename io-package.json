@@ -1,9 +1,9 @@
 {
     "common": {
-        "name": "luftdaten",
-        "version": "1.0.3",
+        "name": "test-lda",
+        "version": "0.0.1",
         "news": {
-            "1.0.3": {
+            "0.0.1": {
                 "en": "Remove non-numeric characters from sensor id",
                 "de": "Alle nicht-numerischen Zeichen aus der Sensor-ID entfernen"
             },
@@ -20,17 +20,17 @@
                 "de": "Erster stable Release"
             }
         },
-        "title": "Luftdaten.info",
+        "title": "Test Luftdaten.info",
         "titleLang": {
-            "en": "Luftdaten.info",
-            "de": "Luftdaten.info"
+            "en": "Test-Luftdaten.info",
+            "de": "Test-Luftdaten.info"
         },
         "desc": {
             "en": "Loads current air quality data from a local or remote sensor",
             "de": "Lädt aktuelle Luftqualitätsdaten eines lokalen oder Cloud-Sensors"
         },
         "authors": [
-            "Matthias Kleine <info@haus-automatisierung.com>"
+            "helmut53 <bell.edasch@gmail.com>"
         ],
         "keywords": [
             "web",
@@ -42,9 +42,9 @@
         "platform": "Javascript/Node.js",
         "main": "main.js",
         "icon": "luftdaten.png",
-        "extIcon": "https://raw.githubusercontent.com/klein0r/ioBroker.luftdaten/master/admin/luftdaten.png",
+        "extIcon": "https://raw.githubusercontent.com/helmut53/ioBroker.test-lda/master/admin/luftdaten.png",
         "enabled": true,
-        "readme": "https://github.com/klein0r/ioBroker.luftdaten/blob/master/README.md",
+        "readme": "https://github.com/helmut53/ioBroker.test-lda/blob/master/README.md",
         "loglevel": "info",
         "mode": "schedule",
         "allowInit": true,

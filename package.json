@@ -1,7 +1,7 @@
 {
-  "name": "iobroker.luftdaten",
-  "version": "1.0.3",
-  "description": "ioBroker Luftdaten Adapter",
+  "name": "iobroker.test-lda",
+  "version": "0.0.1",
+  "description": "ioBroker TEST-Luftdaten Adapter",
   "author": {
     "name": "Matthias Kleine",
     "email": "info@haus-automatisierung.com",
@@ -13,7 +13,7 @@
       "email": "pix---@hotmail.com"
     }
   ],
-  "homepage": "https://github.com/klein0r/ioBroker.luftdaten",
+  "homepage": "https://github.com/helmut53/ioBroker.test-lda",
   "license": "MIT",
   "keywords": [
     "ioBroker",
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/klein0r/ioBroker.luftdaten"
+    "url": "https://github.com/helmut53/ioBroker.test-lda"
   },
   "engines": {
     "node": ">=12.0.0"
@@ -64,7 +64,7 @@
     "lint": "eslint"
   },
   "bugs": {
-    "url": "https://github.com/klein0r/ioBroker.luftdaten/issues"
+    "url": "https://github.com/helmut53ioBroker.test-lda/issues"
   },
   "readmeFilename": "README.md"
 }
