@@ -52,7 +52,7 @@ systemDictionary = {
     },
     "Sensor Identifier": {
         "en": "Sensor Identifier",
-        "de": "Sensorkennung",
+        "de": "Sensorkennung - GitHub Test-LDA",
         "ru": "Идентификатор датчика",
         "pt": "Identificador do sensor",
         "nl": "Sensoridentificatie",
